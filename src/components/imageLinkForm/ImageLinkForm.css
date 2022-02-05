@@ -1,0 +1,19 @@
+.form{
+    width: 700px;
+    border-radius: 10px;
+    background-color:#54AFBC;
+    background-image: 
+    linear-gradient(30deg, #338D9A 12%, transparent 12.5%, transparent 87%, #338D9A 87.5%, #338D9A),
+    linear-gradient(150deg, #338D9A 12%, transparent 12.5%, transparent 87%, #338D9A 87.5%, #338D9A),
+    linear-gradient(30deg, #338D9A 12%, transparent 12.5%, transparent 87%, #338D9A 87.5%, #338D9A),
+    linear-gradient(150deg, #338D9A 12%, transparent 12.5%, transparent 87%, #338D9A 87.5%, #338D9A),
+    linear-gradient(60deg, #AFE6EE 25%, transparent 25.5%, transparent 75%, #AFE6EE 75%, #AFE6EE),
+    linear-gradient(60deg, #AFE6EE 25%, transparent 25.5%, transparent 75%, #AFE6EE 75%, #AFE6EE);
+    background-size:80px 140px;
+    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+}
+
+.button{
+    background-color: #BD2CB1;
+    border-radius: 5px;
+}
